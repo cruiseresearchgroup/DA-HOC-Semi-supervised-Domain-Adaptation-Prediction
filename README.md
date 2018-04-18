@@ -20,7 +20,7 @@ This repository contains resources used and described in the paper.
 
 The repository is structured as follows:
 
-- `code/`: Code implementation and evaluation of RUP.  
+- `code/`: Code implementation and evaluation of DA-HOC.  
 - `data/`: Preprocessed dataset used for this paper. 
 - `paper/`: Formal description of the algorithm and evaluation result. 
 
