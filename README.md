@@ -10,7 +10,7 @@ This repository contains resources developed within the following paper:
 
 Arief-Ang, I.B., Salim, F.D. and Hamilton, M., 2017. DA-HOC: Semi-supervised Domain Adaptation for Room Occupancy Prediction using CO<sub>2</sub> Sensor Data. Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys 2017), pp.1-10.
   
-You can find the [paper](link_to_your_github_pdf_resource_file.pdf) and [presentation](link_to_your_github_pdf_resource_file.pdf) in this repository. 
+You can find the [paper](https://github.com/cruiseresearchgroup/DA-HOC-Semi-supervised-Domain-Adaptation-Prediction/blob/master/paper/BuildSys17_IrvanAriefAng.pdf) in this repository. 
 
 Alternative link: https://dl.acm.org/citation.cfm?id=3137146
 
@@ -18,24 +18,12 @@ Alternative link: https://dl.acm.org/citation.cfm?id=3137146
 This repository contains resources used and described in the paper.
 
 The repository is structured as follows:
-> **NOTE:** this should follow the folders you have in this repository 
 
-- `algorithms/`: Formal description of algorithm for entity normalization and sentence clustering.
-- `data/`: Dataset used for this paper. 
-- `code/`: Evaluation script.
-- `evaluation/`: Evaluation script.
-- `presentation/`: PDF of paper presentation in certain conference or venue.
-
-## Code
-Brief explanation about your code (where to start or how to run). 
-
-## Data
-Brief explanation of your datasets. 
+- `code/`: Code implementation and evaluation of RUP.  
+- `data/`: Preprocessed dataset used for this paper. 
+- `paper/`: Formal description of the algorithm and evaluation result. 
 
 ## Possible Applications
-
-## Additional Section
-Additional section. 
 
 ## Citation
 If you use the resources (code and dataset) presented in this repository, please cite (using the following BibTeX entry):
