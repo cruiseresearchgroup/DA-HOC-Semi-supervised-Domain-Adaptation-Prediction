@@ -9,7 +9,7 @@ Human occupancy counting is crucial for both space utilisation and building ener
 
 This repository contains resources developed within the following paper:
 
-Arief-Ang, I.B., Salim, F.D. and Hamilton, M., 2017. DA-HOC: Semi-supervised Domain Adaptation for Room Occupancy Prediction using CO<sub>2</sub> Sensor Data. Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys 2017), pp.1-10.
+    Arief-Ang, I.B., Salim, F.D. and Hamilton, M., 2017. DA-HOC: Semi-supervised Domain Adaptation for Room Occupancy Prediction using CO<sub>2</sub> Sensor Data. Proceedings of the 4th ACM International Conference on Systems for Energy-Efficient Built Environments (BuildSys 2017), pp.1-10.
   
 You can find the [paper](https://github.com/cruiseresearchgroup/DA-HOC-Semi-supervised-Domain-Adaptation-Prediction/blob/master/paper/BuildSys17_IrvanAriefAng.pdf) in this repository. 
 
