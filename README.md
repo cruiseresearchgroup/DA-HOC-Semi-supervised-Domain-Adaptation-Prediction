@@ -1,7 +1,7 @@
 > **If you use the resources (algorithm, code and dataset) presented in this repository, please cite our paper.**  
 *The BibTeX entry is provided at the bottom of this page. 
 
-# Your paper title
+# DA-HOC: Semi-supervised Domain Adaptation for Room Occupancy Prediction using CO<sub>2</sub> Sensor Data
 Human occupancy counting is crucial for both space utilisation and building energy optimisation. In the current article, we present a semi-supervised domain adaptation method for carbon dioxide - Human Occupancy Counter (DA-HOC), a robust way to estimate the number of people within in one room by using data from a carbon dioxide sensor. In our previous work, the proposed Seasonal Decomposition for Human Occupancy Counting (SD-HOC) model can accurately predict the number of individuals when the training and labelled data are adequately available. DA-HOC is able to predict the number of occupancy with minimal training data, as little as one-day data. DA-HOC accurately predicts indoor human occupancy for a large room using a model trained from a small room and adapted to the larger room. We evaluate DA-HOC with two baseline methods - support vector regression technique and SD-HOC model. The results demonstrate that DA-HOC's performance is better by 12.29% in comparison to SVR and 10.14% in comparison to SD-HOC.
 
 This repository contains resources developed within the following paper:
